@@ -19,7 +19,7 @@ No external libraries are required.
 
 Clone the repository:
 
-git clone https://github.com/your-username/smart-grade-calculator.git
+git clone https://github.com/khalifah01/smart-grade-calculator.git
 
 Navigate into the project folder:
 
